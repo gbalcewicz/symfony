@@ -108,6 +108,7 @@ class InflectorTest extends TestCase
             array('oases', array('oas', 'oase', 'oasis')),
             array('objectives', 'objective'),
             array('oxen', 'ox'),
+            array('packages', 'package'),
             array('parties', 'party'),
             array('people', 'person'),
             array('persons', 'person'),
